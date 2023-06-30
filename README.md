@@ -8,7 +8,8 @@ Códigos dos Jupyter Notebooks Python utilizados para gerar as análises e resul
   [CAGED_tabelas_auxiliares.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/CAGED_tabelas_auxiliares.ipynb)
 
 - Código do ETL da base da RAIS Estabelecimento<br>
-  [RAIS_ETL.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/RAIS_ETL.ipynb)
+  [RAIS_ETL.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/RAIS_ETL.ipynb)<br>
+  [RAIS_tabelas_auxiliares.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/RAIS_tabelas_auxiliares.ipynb)
   
 - Análise exploratória dos dados usando python via Spark<br>
   [CNPJ_RFB_EDA_SPARK.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/CNPJ_RFB_EDA_SPARK.ipynb)
