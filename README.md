@@ -23,3 +23,4 @@ Códigos dos Jupyter Notebooks Python utilizados para gerar as análises e resul
   [RAIS_agg.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/RAIS_agg.ipynb)
 
 - Código usado na modelagem da Análise de Sobrevivência<br>
+  [CAGED_Sobrevivencia.ipynb](https://github.com/thiagosilva85/mercado-trabalho/blob/main/CAGED_Sobrevivencia.ipynb)
